@@ -1,0 +1,10 @@
+win when cards equal 0
+
+set newRound on clientside
+end game after winning 
+add cards 
+
+emit client data and sort out playercount variable like wtf
+error messages after failed submission
+if deck is empty swap out discard pile with deck
+CLEAN UP CODE
