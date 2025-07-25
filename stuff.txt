@@ -4,7 +4,7 @@ set newRound on clientside
 end game after winning 
 add cards 
 
-emit client data and sort out playercount variable like wtf
+emit client data and sort out playercount variable 
 error messages after failed submission
 if deck is empty swap out discard pile with deck
 CLEAN UP CODE
